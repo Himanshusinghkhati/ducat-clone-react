@@ -1,0 +1,30 @@
+/***************************Sixth Section Footer Start********************************/
+.footer {
+  color: #fff;
+  padding-top: 40px;
+  background: #0c2243;
+}
+.footer h4 {
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #aae0ff;
+}
+.footer .text-muted {
+  color: #fff !important;
+}
+.footer .nav-link {
+  text-align: left;
+}
+.footer .social {
+  margin-top: -20px;
+}
+.social {
+  column-gap: 15px;
+}
+.social li i {
+  color: #fc0;
+  font-size: 15px;
+  margin-top: 10px;
+}
+/***************************Sixth Section Footer End********************************/

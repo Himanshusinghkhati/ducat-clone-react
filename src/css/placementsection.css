@@ -1,0 +1,48 @@
+/***************************Fifth Section Placement Start********************************/
+.our-h2 {
+  display: inline-flex;
+  justify-content: space-between;
+  font-size: 26px;
+  color: #272c37;
+}
+.client-gallery-grid-item {
+  display: block;
+  border-radius: 6px;
+  border: 1px solid #dee2e6;
+}
+.client-gallery-grid-item .client-gallery-grid {
+  position: relative;
+  text-align: center;
+}
+.client-gallery-grid-item .client-gallery-grid img {
+  border-radius: 5px;
+  height: 100px;
+  width: 150px;
+}
+.client-gallery-grid-item .client-gallery-grid .hover-action {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  z-index: 1;
+  transition: 0.6s;
+  opacity: 0;
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.client-gallery-grid-item:hover {
+  background: rgba(11, 94, 159, 0.88);
+}
+.client-gallery-grid-item:hover p {
+  color: #fff;
+  font-size: 15px;
+}
+.client-gallery-grid-item:hover > .client-gallery-grid .hover-action {
+  opacity: 1;
+}
+.client-gallery-grid-item:hover > .client-gallery-grid img {
+  opacity: 0;
+}
+/***************************Fifth Section Placement End********************************/

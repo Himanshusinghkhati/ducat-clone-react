@@ -1,0 +1,39 @@
+/***************************AboutBannerSection Page Start********************************/
+.about_banner {
+  position: relative;
+}
+.about_content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.about_content .about_heading {
+  font-size: 40px;
+  line-height: 56px;
+  font-weight: 700;
+  text-align: center;
+  color: #fff;
+  text-shadow: 4px 4px #00000040;
+}
+.about-banner-img {
+  object-fit: cover;
+}
+@media screen and (min-width: 450px) and (max-width: 570px) {
+  .about_content .about_heading {
+    font-size: 30px;
+  }
+}
+@media screen and (min-width: 300px) and (max-width: 449px) {
+  .about_content .about_heading {
+    font-size: 20px;
+    line-height: 40px;
+  }
+}
+@media screen and (max-width: 299px) {
+  .about_content .about_heading {
+    font-size: 15px;
+    line-height: 30px;
+  }
+}
+/***************************AboutBannerSection Page End********************************/

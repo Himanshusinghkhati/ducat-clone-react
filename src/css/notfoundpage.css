@@ -1,0 +1,42 @@
+/***************************404 Page Start********************************/
+.stars {
+  background-color: black;
+  background-repeat: repeat;
+  background-size: contain;
+  background-position: 0 0;
+  height: 100vh;
+}
+.central-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+.text-inner {
+  font-size: calc(100px + 150 * (100vw - 300px) / 1620);
+  font-weight: 700;
+  margin-top: -62px;
+  line-height: 1;
+  color: white;
+}
+.sub-text {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+.text-404 {
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin: 10px 50px;
+  font-weight: 300;
+}
+.btn.back-btn {
+  background: #14599e;
+  color: white;
+  font-size: 15px;
+}
+.btn.back-btn:hover {
+  background: #14599e;
+  color: white;
+}
+/***************************404 Page End********************************/

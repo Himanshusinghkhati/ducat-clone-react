@@ -1,0 +1,28 @@
+/***************************Second Section Start********************************/
+.banner-bottom {
+  background: #2c72d5;
+  padding: 10px 0;
+}
+.box-outer_1 {
+  display: flex;
+  /* column-gap: 60px;
+  justify-content: center; */
+}
+.box_1 {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+.box_1 img {
+  margin-bottom: 0;
+  min-height: 90px;
+  min-width: 45px;
+  width: 45px;
+  object-fit: scale-down;
+}
+.box_1 p {
+  font-size: 14px;
+  width: 50%;
+  margin: 0;
+}
+/***************************Second Section End********************************/

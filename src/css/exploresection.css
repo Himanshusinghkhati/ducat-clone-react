@@ -1,0 +1,48 @@
+/***************************Third Section Explore Start********************************/
+.our-h2 {
+  display: inline-flex;
+  justify-content: space-between;
+  font-size: 26px;
+  color: #272c37;
+  border-bottom: 3px solid #fb8f2a;
+}
+.top-program-item {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  text-decoration: none;
+  color: #000;
+  margin-bottom: 30px;
+  padding: 0 !important;
+  background: #fff;
+  cursor: pointer;
+  border: 1px solid #dfeeff;
+}
+.top-program-item .one {
+  width: 70px;
+  height: 70px;
+  background: #d7ebff;
+}
+.top-program-item img {
+  padding: 10px;
+}
+.top-program-item .related-course-name {
+  padding: 0 8px;
+  font-size: 12px;
+}
+@media screen and (max-width: 575px) {
+  .top-program-item .related-course-name {
+    font-size: 15px;
+  }
+}
+@media screen and (min-width: 576px) and (max-width: 767px) {
+  .top-program-item .related-course-name {
+    font-size: 15px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1000px) {
+  .top-program-item .related-course-name {
+    font-size: 8px;
+  }
+}
+/***************************Second Section Explore End********************************/

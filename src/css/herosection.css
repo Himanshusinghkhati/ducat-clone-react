@@ -1,0 +1,32 @@
+/***************************Section Header Start********************************/
+.img-responsive {
+  /* min-height: 400px; */
+  object-fit: contain;
+}
+.top-header-text {
+  font-weight: 800;
+  font-size: 40px;
+  text-align: left;
+  color: #272c37;
+  margin-bottom: 2rem;
+  line-height: 55px;
+}
+@media screen and (min-width: 800px) and (max-width: 1000px) {
+  .top-header-text {
+    font-size: 30px;
+    line-height: normal;
+  }
+}
+@media screen and (min-width: 600px) and (max-width: 799px) {
+  .top-header-text {
+    font-size: 20px;
+    line-height: normal;
+  }
+}
+@media screen and (max-width: 599px) {
+  .top-header-text {
+    font-size: 15px;
+    line-height: normal;
+  }
+}
+/***************************Section Header End********************************/

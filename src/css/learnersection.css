@@ -1,0 +1,61 @@
+/***************************Section Learner Start********************************/
+
+.rec.rec-swipable {
+  gap: 20px;
+}
+.iqdhro {
+  width: auto !important;
+  border: 1px solid #d5eaff;
+  padding: 8px !important;
+  background: transparent !important;
+  border-radius: 0px !important;
+  box-shadow: 1px 1px 9px -1px white;
+}
+.LnZUW {
+  width: 25px !important;
+  height: 25px !important;
+  min-width: auto !important;
+  background-color: #1576ca !important;
+  border-radius: 0px !important;
+  color: white !important;
+  line-height: 0px !important;
+  font-size: 12px !important;
+}
+.dPOFGc {
+  width: 25px !important;
+  height: 25px !important;
+  min-width: auto !important;
+  background-color: #1576ca !important;
+  border-radius: 0px !important;
+  color: white !important;
+  line-height: 0px !important;
+  font-size: 12px !important;
+}
+.hhtRtp {
+  padding: 0px !important;
+}
+.learner-h2 {
+  text-transform: uppercase;
+  font-weight: 600;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding-bottom: 5px !important;
+  margin: 20px auto 15px;
+}
+.learner-h2,
+.our-h2 {
+  border-bottom: 3px solid #fb8f2a;
+  font-size: 25px !important;
+}
+.learner-para {
+  width: 70%;
+  font-size: 22px;
+  line-height: 30px;
+  text-align: center;
+  margin: 0 auto 60px;
+  color: #5c5b5b;
+}
+.fhSanJ {
+  background-color: #1576ca !important;
+}
+/***************************Section Learner End********************************/

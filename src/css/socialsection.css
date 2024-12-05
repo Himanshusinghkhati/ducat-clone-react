@@ -1,0 +1,18 @@
+/***************************SocialPage right side Start********************************/
+
+.social_fixed {
+  position: fixed;
+  background: #14599e;
+  right: 0;
+  top: 200px;
+  z-index: 99;
+  border-radius: 10px 0 0 10px;
+  padding: 15px 12px;
+  max-width: fit-content !important;
+}
+.social_fixed ul {
+  padding-left: 0;
+  list-style: none;
+  margin: 0;
+}
+/***************************SocialPage right side End********************************/

@@ -1,0 +1,18 @@
+.testimonial-img {
+  border-radius: 50%;
+  border: 3px solid #fe8735;
+}
+.iqdhro {
+  background: -webkit-radial-gradient(circle, #fff 0, #b3daff 100%);
+  border-radius: 25px;
+  box-shadow: 1px 1px 9px -1px #b3daff;
+}
+.card {
+  background: -webkit-radial-gradient(circle, #fff 0, #b3daff 100%);
+  width: 335px;
+}
+.read-more {
+  color: #fb8f2a;
+  text-decoration: none;
+  font-style: italic;
+}

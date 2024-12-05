@@ -1,0 +1,30 @@
+nav.navbar.navbar-expand-lg.navbar-light img {
+  width: 110px;
+  height: 45px;
+}
+.nav-link {
+  color: rgba(0, 0, 0, 0.7) !important;
+  padding-right: 0.5rem !important;
+  padding-left: 0.5rem !important;
+  font-size: 15px !important;
+  font-weight: 400 !important;
+  line-height: 1.5 !important;
+}
+.dropdown-item {
+  color: rgba(0, 0, 0, 0.7) !important;
+  font-size: 15px;
+  font-weight: 400 !important;
+  line-height: 1.5;
+  padding-right: 0.8rem !important;
+  padding-left: 0.8rem !important;
+}
+ul.dropdown-menu.show {
+  left: -40px;
+}
+#header {
+  top: 0;
+  position: sticky;
+  background: white;
+  box-shadow: 0 0 5px #b7b7b7;
+  z-index: 1;
+}

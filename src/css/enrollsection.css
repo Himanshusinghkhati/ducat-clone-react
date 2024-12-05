@@ -1,0 +1,54 @@
+/***************************Third Section Enroll Start********************************/
+.enroll-class {
+  background: linear-gradient(90deg, #145b9e, #2781d0 82%, #183c5d);
+  background-attachment: scroll;
+  background-size: auto;
+  padding: 25px 0 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.corporate-training-curriculum {
+  color: #fff;
+  margin-top: 30px;
+}
+.corporate-training-curriculum strong {
+  font-size: 28px;
+}
+.mobile-hidden {
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 10px;
+  text-align: center;
+}
+.enroll-call-numbars {
+  display: grid !important;
+  place-items: center;
+  text-align: center;
+}
+.calling-head {
+  font-size: 14px;
+  color: #fff;
+}
+.calling-btn {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 17px;
+  padding: 5px 30px;
+  color: #125ba0;
+  border-radius: 5px;
+  height: 39px;
+  background: #fff;
+  font-weight: 600;
+}
+.calling-btn i {
+  color: #3aad47;
+  font-weight: bolder;
+  font-size: 15px;
+}
+@media screen and (max-width: 1000px) {
+  .enroll-class {
+    padding-bottom: 20px;
+  }
+}
+/***************************Third Section Enroll End********************************/
